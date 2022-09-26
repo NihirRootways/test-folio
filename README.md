@@ -13,3 +13,4 @@
 ## Jigsaw
 - (9) familytribute :- https://github.com/isAdamBailey/familytribute
 - (10) dekker.io :- https://github.com/claudiodekker/dekker.io
+- (11) artisan-static:- https://github.com/raniesantos/artisan-static
